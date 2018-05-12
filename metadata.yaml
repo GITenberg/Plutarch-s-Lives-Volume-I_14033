@@ -1,0 +1,49 @@
+_repo: Plutarch-s-Lives-Volume-I_14033
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+  - agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcc 'DE'
+tableOfContents: Life of Plutarch -- Life of Theseus -- Life of Romulus -- Comparison
+  of Theseus and Romulus -- Life of Lykurgus -- Life of Numa -- Comparison of Numa
+  with Lykurgus -- Life of Solon -- Life of Poplicola -- Comparison of Solon and Poplicola
+  -- Life of Themistokles -- Life of Camillus -- Life of Perikles -- Life of Fabius
+  Maximus -- Comparison of Perikles and Fabius Maximius -- Life of Alkibiades -- Life
+  of Caius Marcius Coriolanus -- Comparison between Alkibiades and Coriolanus -- Life
+  of Timoleon -- Life of Aemilius -- Comparison of Paulus Aemilius and Timoleon.
+title: Plutarch's Lives, Volume 1 (of 4)
+url: http://www.gutenberg.org/ebooks/14033
