@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/342
     wikipedia: http://en.wikipedia.org/wiki/Plutarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14033#Plutarch-s-Lives-Volume-I
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2004-11-12'
 gutenberg_type: Text
